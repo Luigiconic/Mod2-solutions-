@@ -92,7 +92,7 @@
     }
 
     /*desktop version*/
-    @media (min-width: 992px) {
+    @media (min-width: 1000px) {
         .column-lg-4 {
             float: left;
             width: 33.33%;
@@ -117,7 +117,7 @@
     }
 
     /*mobile version*/
-    @media (max-width: 767px) {
+    @media (max-width: 750px) {
         .colmn-sm-12 {
             float: left;
             width: 100%;
